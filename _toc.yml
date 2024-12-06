@@ -1,0 +1,8 @@
+format: jb-book
+root: index.md
+chapters:
+  - file: Project_3
+  - file: Project_2
+  - file: Project_1
+
+
