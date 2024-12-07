@@ -1,1 +1,2 @@
 # Isaura's Projects
+Hello, welcome to my website, where I share some of my latest Python projects. Project 3, my latest, is simpler than my previous two, as I sought to transfer my skills into this new format!
